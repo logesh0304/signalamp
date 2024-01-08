@@ -1,0 +1,4 @@
+eaglepcb/*
+!eaglepcb/signalamp.brd
+!eaglepcb/signalamp.sch
+!eaglepcb/CAMOutputs/
